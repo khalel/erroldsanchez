@@ -497,8 +497,15 @@ body.loaded #preloader{
 }
 
 .about-me p {
-	padding: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
 	font-size: 15px;
+}
+
+.about-me ul {
+    padding-left: 70px;
+    padding-right: 70px;
+	font-size: 14px;
 }
 
 
