@@ -110,7 +110,7 @@ fieldset {
 }
 
 .section-space-padding {
-    padding: 100px 0px;
+    padding: 60px 0px;
 }
 
 .section-title {
@@ -493,18 +493,15 @@ body.loaded #preloader{
 .about-me {}
 
 .about-me h2 {
-	padding: 0px 50px;
+	padding: 0px 30px;
 }
 
 .about-me p {
-    padding-left: 50px;
-    padding-right: 50px;
-	font-size: 15px;
+	padding: 0px 30px;
 }
 
 .about-me ul {
-    padding-left: 70px;
-    padding-right: 70px;
+	padding: 0px 60px;
 	font-size: 14px;
 }
 
